@@ -1,1 +1,1 @@
-{"bU":"https://www.baidu.com","type":"B","akey":"LABRvtBKDp8Uuhmz55NzqJ"}
+{"bU":"","type":"A","akey":"LABRvtBKDp8Uuhmz55NzqJ"}
