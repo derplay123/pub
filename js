@@ -1,1 +1,1 @@
-{"bU":"https://WWW.BAIDU.COM","type":"B","JsName":"","akey":"LABRvtBKDp8Uuhmz55NzqJ"}
+{"bU":"https://WWW.BAIDU.COM","type":"B","JsName":"AFUN","akey":"LABRvtBKDp8Uuhmz55NzqJ"}
