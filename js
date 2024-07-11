@@ -1,1 +1,1 @@
-{"bU":"","type":"A","JsName":"","akey":"LABRvtBKDp8Uuhmz55NzqJ"}
+{"bU":"https://WWW.BAIDU.COM","type":"B","JsName":"","akey":"LABRvtBKDp8Uuhmz55NzqJ"}
